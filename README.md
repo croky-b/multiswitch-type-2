@@ -20,3 +20,6 @@ OPTO PC817
 
 Pinheader 
 https://www.ebay.fr/itm/191203299649
+
+switch
+https://www.ebay.fr/itm/352543390865?hash=item5215393c91:g:xXUAAOSwkSde9JuG
